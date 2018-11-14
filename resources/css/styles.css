@@ -1,0 +1,160 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    text-decoration: none;
+    }
+
+p {
+  font-size: 20px;
+  font-family: serif;
+  color: #262626;  /*Dark Gray*/
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+ul {
+  font-family: cursive;
+  color: #2F4F4F;  /*Dark Slate Gray*/
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
+
+.Munchkin {
+  color:	#4B0082;  /*Indigo*/
+  background-color:  	#48D1CC  /*Medium Turquoise*/
+}
+
+.Piglets {
+  color: 		#4B0082;  /*Indigo*/
+  background-color:  #F08080   /*Light Coarl*/;
+}
+
+.Pomeranian {
+  color: #4B0082;  /*Indigo*/
+  background-color: 	#FF6347  /*Tomato*/
+}
+
+.button {
+  color: #800000;  /*Maroon*/
+  background-color: 	#7CFC00;  /*Lawn Green*/
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid 	#000000;  /*Black*/
+  border-radius: 5px;
+
+  width: 100px;
+  margin: 20px;
+}
+
+.synopsis {
+  font-style: italic;
+  font-family: comic serif;
+  font-size: 25px;
+  color: #000000; /*black*/
+  margin-right: 10px;
+}
+
+.title {
+  font-style: bold;
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 10px;
+  margin-top: 30px;
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+a:active {
+  color: orange;
+}
+
+body {
+  background-color: 	#FFF8DC;  /*Cornsilk*/
+  margin: 20px;
+}
+
+.text {
+  font-family: comic serif;
+  font-size: 20px;
+  text-align: center;
+  color: #000000; /*black*/
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#button-1 {
+  color: #800000;  /*Maroon*/
+  margin-left: 1700px;
+}
+
+#button-2 {
+  color: #800000;  /*Maroon*/
+margin-left: 1700px;
+}
+
+#button-3 {
+color:  #800000;  /*Maroon*/
+margin-left: 1700px;
+}
+
+.cat {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.pig {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.dog {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.white {
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.pink {
+margin-left: 100px;
+margin-top: 20px;
+}
+
+.brown {
+  float: right;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
